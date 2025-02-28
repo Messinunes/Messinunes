@@ -1,6 +1,6 @@
 ## Hi guys 👋
-- 🎇 Actually I'm working on my TCC (Course Conclusion Work) of my technical course at Etec Carapicuíba,SP;
-- ✨ Learning a lot of things, but mainly Web Programming (JS/PHP), Kotlin and a few more things;
+- 🎇 Actually I'm studying at Faculty Fatec of Carapicuíba,SP;
+- ✨ Learning a lot of things, but mainly Web Programming (JS/PHP), Python, Kotlin and a few more things;
 - 💌 You can reach me at my gmail: messiasnunesb@gmail.com;
 - 💤I love cats and some nerd things 🐱‍👤🐱‍🐉🐱‍👓.
 
