@@ -24,17 +24,12 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Fatec de Carapi
 
 ### 📂 Meus Projetos
 
-#### 1. 🦋 Anadex
-*Aplicativo Mobile / Flutter*
-* Aplicativo desenvolvido em **Flutter** focado em catalogar seres vivos de uma forma gameficada e com IA.
-* **[Ver Repositório 👉](link-do-repositorio-aqui)**
-
-#### 💡 2. Munduca
+#### 💡 1. Munduca
 *Startup / Full-Stack*
-* [cite_start]Projeto de conclusão de curso técnico que foi **apresentado como Startup na Campus Party 2024**! Uma solução focada em inovação e na recuperação do ensino básico brasileiro utilizando **HTMl/CSS e JS**.
+* Projeto de conclusão de curso técnico que foi **apresentado como Startup na Campus Party 2024**! Uma solução focada em inovação e na recuperação do ensino básico brasileiro utilizando **HTMl/CSS e JS**.
 * **[Ver Repositório 👉](https://github.com/Messinunes/MunducaTCC)**
 
-#### 🧠 3. MindFlow
+#### 🧠 2. MindFlow
 *Projeto Integrador / Fatec*
 * Sistema desenvolvido para o Projeto Integrador da faculdade, aplicando conceitos de organização de tarefas, chatbot e resolução de problemas práticos utilizando **React.js**.
 * **[Ver Repositório 👉](https://github.com/Messinunes/Projeto_Integrador-MindFlow)**
@@ -42,11 +37,11 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Fatec de Carapi
 ---
 
 ### 🏆 Conquistas & Eventos
-**EF SET Certificate:** Certificado de inglês C1 Avançado.
-**Campus Party 2024:** Apresentação da Startup Munduca no ecossistema de inovação.
-**NLW Agents (RocketSeat):** Desenvolvimento completo de um setup Back-End em Node.js e Front-End em React.
-**Maratona de Programação:** Competição interna de algoritmos em Python na Fatec de Carapicuíba.
-**Escola de Inovadores:** Capacitação em empreendedorismo e novos negócios pela Inova CPS.
+* **EF SET Certificate:** Certificado de inglês C1 Avançado.
+* **Campus Party 2024:** Apresentação da Startup Munduca no ecossistema de inovação.
+* **NLW Agents (RocketSeat):** Desenvolvimento completo de um setup Back-End em Node.js e Front-End em React.
+* **Maratona de Programação:** Competição interna de algoritmos em Python na Fatec de Carapicuíba.
+* **Escola de Inovadores:** Capacitação em empreendedorismo e novos negócios pela Inova CPS.
 
 ---
 
